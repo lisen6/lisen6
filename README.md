@@ -22,7 +22,6 @@ I'm Sen Li, A front-end developer, the technology stack is JavaScript, Vue, Reac
 ## Things I am passionate about
 
 - 😺 FrontEnd :robot:
-- 🌱 Open source :octocat
 - 💬 wx：ls1789502923
 
 ## My Data
